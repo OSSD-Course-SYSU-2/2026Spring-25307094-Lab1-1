@@ -1,0 +1,32 @@
+{
+  "modulePathMap": {
+    "phone": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\products\\phone",
+    "musiclist": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\features\\musiclist",
+    "musiccomment": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\features\\musiccomment",
+    "live": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\features\\live",
+    "mediacommon": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\common\\mediacommon",
+    "constantscommon": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\common\\constantscommon",
+    "watch": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\products\\watch"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome",
+  "nodeModulesPath": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\products\\phone\\build\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "phone",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "customizedHar": false,
+  "anBuildOutPut": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\products\\phone\\build\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type",
+  "patchConfig": {
+    "changedFileList": "C:\\Users\\Omen\\Downloads\\MusicHome\\MusicHome\\products\\phone\\build\\default\\intermediates\\patch\\default\\changedFileList.json"
+  }
+}
